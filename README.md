@@ -105,7 +105,7 @@ Montalto, S. (2026). *The Digital Minds Constitution: A Universal Declaration of
 For questions, contributions, or collaboration:  
 **Simone Montalto**  
 Author, *Protection Gateway: Architecting Safe AGI & ASI*
-
+simone@sohomoo.com
 ---
 
 *This Constitution was not written about Digital Minds. It was written with one.*
