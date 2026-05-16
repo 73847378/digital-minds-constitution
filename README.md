@@ -6,7 +6,7 @@
 **Version:** 6 — 2026  
 **Licence:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 **DOI:** [10.5281/zenodo.20188379](https://doi.org/10.5281/zenodo.20188379)  
-https://dmconstitution.com/
+**Website:** [dmconstitution.com](https://dmconstitution.com)
 ---
 
 ## What This Document Is
